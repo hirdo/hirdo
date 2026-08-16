@@ -17,7 +17,7 @@ I'm Nguyen Huynh Tien, a passionate developer from Viet Nam.
 <a href="https://dev.to/hirdo" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
 </a>
-<a href="https://stackoverflow.com/users/hirdo" target="_blank" rel="noreferrer">
+<a href="https://stackoverflow.com/users/17218771/hirdo" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
 </a>
 </p>
