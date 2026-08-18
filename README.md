@@ -7,7 +7,7 @@
 I'm Nguyen Huynh Tien, a passionate software engineer from Viet Nam.
 
 <p>
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://portfolio-hirdo.vercel.app" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/portfolio-F59E0B?style=for-the-badge&logo=zap&logoColor=white" alt="Hirdo" />
 </a>
 <a href="https://github.com/hirdo" target="_blank" rel="noreferrer">
