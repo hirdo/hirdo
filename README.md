@@ -137,9 +137,9 @@ I'm Nguyen Huynh Tien, a passionate software engineer from Viet Nam.
 </table>
 
 ## GitHub Stats
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hirdo&layout=compact&theme=radical" alt="hirdo"  />
-<img src="https://github-stats-extended.vercel.app/api?username=hirdo&show_icons=true&theme=radical" alt="hirdo" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirdo&" alt="hirdo" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hirdo&layout=compact&theme=radical" alt="hirdo"  />
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=hirdo&show_icons=true&theme=radical" alt="hirdo" />
+<img align="center" src="https://streak-stats.demolab.com/?user=hirdo" alt="hirdo" />
 <img align="center" src="https://trophygithubreadmelang.cybee.dpdns.org/?username=hirdo&theme=onedark&column=7&margin-w=15" alt="hirdo" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hirdo&theme=react-dark" alt="hirdo" />
 
